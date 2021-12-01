@@ -1,0 +1,21 @@
+$primary: #000000;
+$secondary: #276df1;
+$light: #82838f;
+$btn-border-radius: 5rem;
+$body-color: #ffffff;
+$border-color: #82838f;
+$border-width: 2px;
+$link-color: #ffffff;
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+.active {
+  color: #ffffff;
+}
+
+
+
+.h-30 {
+  height: 17rem;
+}
